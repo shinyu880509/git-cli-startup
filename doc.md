@@ -37,3 +37,4 @@ hello()
 ![](./ntub.png)
 
 [Go to header1](#header 1)
+[Go to page A](./a.md)
