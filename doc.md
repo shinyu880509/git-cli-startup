@@ -11,3 +11,9 @@ hello *markdown*:斜體
 hello **markdown**:粗體  
 hello ***markdown***:斜體+粗體  
 hello ~~markdown~~:刪除線  
+
+<https://google.com>
+[Google](https://gooogle.com)
+
+---
+Hello `markdwon`
